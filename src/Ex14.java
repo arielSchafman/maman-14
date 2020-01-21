@@ -70,6 +70,7 @@ public class Ex14 {
 
     }
 
+
     /**
      * tell the distance between all the 1's and the closest 0 to them.
      *
